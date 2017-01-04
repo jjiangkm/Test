@@ -13,6 +13,7 @@ import android.widget.LinearLayout;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener, Runnable {
+//
     private static final int INTERVAL = 150;
     private ImageView iv_computer;
     private Random r = new Random();
