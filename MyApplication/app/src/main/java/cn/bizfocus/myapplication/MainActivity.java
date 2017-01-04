@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Random r = new Random();
     private int computer = 0;
     private Handler mHandler = new Handler() ;
+
     /**
      * 石头
      */
